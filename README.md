@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Christian Osuji (Chris-de-sypher)</h1>
 <p align="center">A passionate fullstack developer, a community mentor, a google developer student lead. My goal is to keep learning and also make coding sweet for beginners by providing them with the neccessary assisatnce needed in any area they find themselves confuse.</h3>
 
-<img align = "right" alt="javascript gif_logo" width="600" height="550" src="https://camo.githubusercontent.com/bdd38b0c65d47c7cba62b60617adffedb3a48d1ac6e77501b990fffb1e52815c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333230302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966" />
+<img align = "right" alt="javascript gif_logo" width="650" src="https://camo.githubusercontent.com/bdd38b0c65d47c7cba62b60617adffedb3a48d1ac6e77501b990fffb1e52815c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333230302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris-de-sypher&label=Profile%20views&color=0e75b6&style=flat" alt="chris-de-sypher" /> </p>
 
